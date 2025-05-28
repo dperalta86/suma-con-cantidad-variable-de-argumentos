@@ -1,5 +1,5 @@
 # suma_x_parametros: Función de Suma con Parámetros Variables en C
-📚 ### Contexto Académico
+### 📚 Contexto Académico
 
 Este proyecto surgió como una exploración práctica durante la clase de Sintaxis y Semántica de Lenguajes, específicamente al estudiar:
 
@@ -76,10 +76,10 @@ float r3 = suma_x_parametros("%d %f", x, y);
 
 
 🚀 Cómo Contribuir
-
-    Clona el repo:
+Cloná el repo:
 ```
-    sh
+sh
+
 git clone https://github.com/dperalta86/suma-con-cantidad-variable-de-argumentos.git
 ```
 Explora el codigo y comentame mejoras o consultas!
