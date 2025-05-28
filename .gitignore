@@ -1,0 +1,35 @@
+# Ejecutable y archivos binarios
+/suma_x_parametros
+*.exe
+*.out
+*.bin
+
+# Objetos y archivos temporales de compilación
+*.o
+*.a
+*.so
+*.dll
+
+# Directorios generados
+build/
+dist/
+*.app
+
+# Entorno de desarrollo (VSCode)
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Archivos de usuario (system-specific)
+.DS_Store
+Thumbs.db
+
+# Logs y debug
+*.log
+*.tmp
+
+# Archivos generados por el sistema
+*.swp
+*~
